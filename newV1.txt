@@ -2,6 +2,3 @@ added text - v1
 -----------------
 
 
-
-
-commit  3rd remove of the second commit line
